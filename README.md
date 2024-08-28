@@ -10,7 +10,12 @@
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Emmanuelf21&show_icons=true&theme=dark&title_color=AA0116&text_color=EFD39C&include_all_commits=true&count_private=true"/>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelf21&title_color=AA0116&text_color=EFD39C&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+   
+## :dependabot: Formações
+ - Etec Martin Luther King - Mecatrónica;
+ - Senai - Técnico em Desenvolvimento de Sistemas (cursando);
+ - UNICSUL - Bacharel em Ciências da Computação;
+   
 ## 💻 Habilidades
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
