@@ -4,8 +4,6 @@
  - 🎮 Gosto de jogos;
  - 🎻 Toco violino;
 
-</br>
-
 ## 👓 GitHub Status
 <div align="center">
   <a href="https://github.com/Emmanuelf21">
@@ -24,8 +22,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
  ## Conecte-se comigo em minhas Redes Sociais :
- 
-<div> 
+ <div> 
   <a href="https://www.linkedin.com/in/emmanuel-franco-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
