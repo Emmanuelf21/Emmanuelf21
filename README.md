@@ -31,6 +31,5 @@
   <a href="https://www.linkedin.com/in/emmanuel-franco-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Badge](https://www.credly.com/badges/dbe0d682-301b-49b3-9209-4f385636179b/public_url)
 ![thresh](https://pbs.twimg.com/media/Dl38YE-UUAAgWo8.png)
 
