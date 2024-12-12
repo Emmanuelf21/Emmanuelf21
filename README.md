@@ -31,5 +31,8 @@
   <a href="https://www.linkedin.com/in/emmanuel-franco-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![thresh](https://pbs.twimg.com/media/Dl38YE-UUAAgWo8.png)
+## Portfólio publicado:
+<div>
+ <a href="https://emmanuelfranco.vercel.app" target="_blank">Acessar</a>
+</div>
 
