@@ -12,7 +12,7 @@
 </div>
    
 ## :dependabot: Formações
- - Etec Martin Luther King - Mecatrónica;
+ - Etec Martin Luther King - Mecatrônica;
  - Senai - Técnico em Desenvolvimento de Sistemas (cursando);
  - UNICSUL - Bacharel em Ciências da Computação;
    
